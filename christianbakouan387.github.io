@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ChristBchef | Portfolio</title>
+</head>
+<body>
+
+<h1>ChristBchef</h1>
+<p>Aspiring Computer Science Student</p>
+
+<h2>About Me</h2>
+<p>
+I am a motivated student in preparatory class(MPSI) who aims to study Computer Science.
+I have some skills in programming and problem-solving.
+</p>
+
+<h2>Skills</h2>
+<ul>
+    <li>Python (basic–intermediate)</li>
+    <li>Mathematics & Logic</li>
+    <li>Algorithms basics</li>
+    <li>Git & GitHub</li>
+    <li>English (Intermediate)</li>
+</ul>
+
+<h2>Projects</h2>
+<p>Mini Python programs and academic exercises.</p>
+
+<h2>Contact</h2>
+<p>Email: yourmail@email.com</p>
+
+</body>
+</html>
